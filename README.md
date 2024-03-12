@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MickyFlowers,a member of RoboMaster ZJU_Hello World
-- 👀 if you are alse interested in RoboMaster or robot，you can contact me by adding Wechat.
+- 👋 Hi, I’m @MickyFlowers,a student of Zhejiang University.
+- 👀 if you are alse interested in robot and manipulation，you can contact me by adding Wechat.
 - Wechat ID: xxx18dong67957738
 
 <!---
